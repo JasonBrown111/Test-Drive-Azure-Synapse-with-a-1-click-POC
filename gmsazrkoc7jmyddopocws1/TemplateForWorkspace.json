@@ -512,7 +512,7 @@
 					},
 					"SynapseWorkspaceName": {
 						"type": "string",
-						"defaultValue": "gmsazrkoc7jmyddopocws1"
+						"defaultValue": "gmsazrkoc7jmyddopoc.dfs.core.windows.net"
 					},
 					"SQLDedicatedPoolName": {
 						"type": "string",

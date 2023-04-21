@@ -239,7 +239,6 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": [],
 				"typeProperties": {
 					"source": {
 						"type": "SqlDWSource",
@@ -465,7 +464,7 @@
 			},
 			"SynapseWorkspaceName": {
 				"type": "string",
-				"defaultValue": "gmsazrkoc7jmyddopocws1"
+				"defaultValue": "gmsazrkoc7jmyddopoc.dfs.core.windows.net"
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
